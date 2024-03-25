@@ -256,32 +256,31 @@
         </div>
     </footer>
     <script>
-        let a = screen.width;
-        if(a < 769){
+        
+        
+        let d = document.getElementById("ON_CL1");
+        function h(){
+            console.log("j")
+            d.style.display = "flex";
+            console.log("Clicked");
+        };
+        
+        d.addEventListener("click", () => {
+            let a = screen.availWidth;
+            console.log(a);
+            console.log("a");
+            if(a <= 769){
+                console.log(11)
 
-            let d = document.getElementById("ON_CL1");
-            function h(){
-                
-                // let a = document.getElementById("ON_CL");
-                
-                console.log("j")
-                // a.addEventListener('onclick', () =>{
-                    d.style.display = "flex";
-                    console.log("Clicked");
-                    
-                    // });
-                    
-            };
-            if(d.style.display !== "none"){
-                d.addEventListener("click", () => {
+                if(d.style.display !== "none"){
                     d.style.display = "none";
                     console.log("D")
-                })
-                
-                
-                
+                }
+            }else{
+                console.log(1);
             }
-            }
+        })
+                           
     </script>
 </body>
 </html>
