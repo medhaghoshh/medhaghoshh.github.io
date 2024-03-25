@@ -1,7 +1,8 @@
 body {
     margin: 0;
     box-sizing: border-box;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', 
+    Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
 
@@ -74,7 +75,7 @@ nav a:hover {
     text-align: center;
     background-color: #f5f5f5;
     padding: 50px 0;
-    height: 730px;
+    /* height: 730px; */
     display: flex;
     align-items: center;
     flex-direction: column;
@@ -263,6 +264,7 @@ h2 {
     text-align: center;
     background-color: #f9f9f9;
     padding: 50px 0;
+    margin-left: 25px;
 }
 
 .contact-form {
@@ -326,6 +328,7 @@ footer {
     color: #fff;
     padding: 10px 15px;
     text-align: center;
+    /* margin-top: 350px; */
 }
 
 footer p {
@@ -371,6 +374,19 @@ footer a:hover {
     .home-quote {
         font-size: 14px;
     }
+    #explore h2 {
+        margin: 156px 0 0 0;
+        background-color: white;
+        width: 100%;
+        padding: 30px 0 30px 0;
+        
+        position: relative;
+        top: 30px;
+    }
+    .card, .card-flex {
+    
+        background-color: white;
+    }
 
     #home {
         background-size: contain;
@@ -404,22 +420,16 @@ footer a:hover {
     .image-info {
         text-align: center; 
     }
-}
 
-
-@media screen and (max-width: 768px) {
     .about-content {
         flex-direction: column; 
         align-items: center; 
+        padding-top: 10px;
     }
 
     .author-image {
         margin-bottom: 20px; 
     }
-}
-
-
-@media screen and (max-width: 768px) {
     .contact-form {
         flex-direction: column; 
         align-items: center; 
@@ -453,7 +463,6 @@ button{
     background-color: #12652082;
     color: #fff;
     border: none;
-    
     border-radius: 4px;
     cursor: pointer;
     font-size: 16px;
@@ -477,8 +486,10 @@ button:hover{
     width: 100%;
     min-height: 100vh;
     padding: 5%;
-    /* background-image: linear-gradient( rgba(243, 252, 243, 0.9),rgba(217, 243, 213, 0.9)), url("https://www.dreamstime.com/royalty-free-stock-images-different-animals-collage-image27167509"); */
-    background-image: linear-gradient( rgba(243, 252, 243, 0.2),rgba(217, 243, 213, 0.2)), url("https://i.pinimg.com/originals/b1/0c/e9/b10ce93091271274b84db46aed9b8892.jpg");
+    /* background-image: linear-gradient( rgba(243, 252, 243, 0.9),rgba(217, 243, 213, 0.9)), 
+    url("https://www.dreamstime.com/royalty-free-stock-images-different-animals-collage-image27167509"); */
+    background-image: linear-gradient( rgba(243, 252, 243, 0.2),rgba(217, 243, 213, 0.2)), 
+    url("https://i.pinimg.com/originals/b1/0c/e9/b10ce93091271274b84db46aed9b8892.jpg");
     
     background-position: center;
     background-size: cover;
@@ -507,6 +518,7 @@ button:hover{
     font-size: 20px;
     /* color: #cac7ff; */
     color: rgb(81, 81, 81);
+    width: 90%;
 }
 
 
@@ -531,4 +543,76 @@ button:hover{
 }
 .LOGOG a:hover {
     background-color: transparent;
+}
+
+/*.........................*/
+
+@media screen and (max-width:920px){
+    .navv {
+        
+        flex-direction: column;
+    }
+
+    .LOGOG {
+        margin-bottom: 10px;
+    }
+
+    .LOGOG img{ 
+        width: 25px;       
+
+    }
+    .Navvv {
+        margin-bottom: 10px;
+    }
+}
+
+.icc {
+    cursor: pointer;
+    display: none;
+}
+
+#gg{
+    background-color: transparent;
+    border: 0px solid transparent;
+    outline: none;
+}
+
+@media screen and (max-width: 768px){
+    .Navvv { 
+        display: none;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .icc {
+        display: block;
+        width: 100%;
+        margin: auto;
+
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .form-fields {
+        margin-right: 0px;
+    }
+    
+}
+@media screen and (max-width: 420px) {
+    
+    #about h2{
+        padding-top: 100px;
+    }
+}
+@media screen and (max-width: 430px) {
+    #contact {
+        position: relative;
+        top: 44px;
+    
+    }
+    footer {
+        position: relative;
+        top: 10px;
+    }
+    }
 }
