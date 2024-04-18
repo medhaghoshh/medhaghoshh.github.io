@@ -8,11 +8,11 @@ Through this website, we strive to raise awareness about the critical need for w
 
 ## Features :
 
-- **Explore**: Explore and know more about various animal species captured in their natural habitats (Lush Jungles, Coastal Wonders & Avian Paradise).
+- **Explore**: Explore and know more about various animal species captured in their natural habitats ( Lush Jungles, Coastal Wonders & Avian Paradise ).
 - **Gallery**: Dive into the world of animals by exploring their wildlife photographs.
 - **FAQs**: Learn about the importance of biodiversity, conservation efforts, and ways you can make a difference.
 - **Search**: This section is basically to search the name of the animal directly by the user so that we can get the details and images of that particular animal which makes it user-friendly.
-- **About WLIFE**: The main motive of this website is briefly explained to the users in this section.
+- **About**: The main motive of this website is briefly explained to the users in this section.
 - **Get in Touch**: Find opportunities to contribute to conservation projects, volunteer with organizations, or support wildlife causes.
 
 ## Why Conservation Matters :
