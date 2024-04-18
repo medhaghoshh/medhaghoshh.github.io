@@ -15,7 +15,7 @@ Through this website, we strive to raise awareness about the critical need for w
 - **About**: The main motive of this website is briefly explained to the users in this section.
 - **Get in Touch**: Find opportunities to contribute to conservation projects, volunteer with organizations, or support wildlife causes.
 
-## Why Conservation Matters :
+## Why Conservation Matters ? 
 
 Conserving wildlife is not just about saving individual species; it's about preserving the delicate balance of our ecosystems and ensuring a sustainable future for all life on Earth. When we protect endangered animals and their habitats, we are also safeguarding the biodiversity that sustains us and enriches our lives in countless ways.
 
