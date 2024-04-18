@@ -4,7 +4,7 @@
 
 Welcome to our WLIFE Website! This platform aims to showcase the diverse and magnificent wildlife that inhabits our planet and emphasize the importance of saving endangered animals. Our world is home to an incredible variety of species, each playing a unique role in maintaining the balance of our ecosystems. Unfortunately, many of these species are currently facing the threat of extinction due to various factors such as habitat loss, poaching, and climate change.
 
-Through this website, we strive to raise awareness about the critical need for wildlife conservation and inspire action to protect these vulnerable creatures. You will find a collection of captivating photographs, informative articles and FAQs  highlighting the beauty and significance of our planet's wildlife.
+Through this website, we strive to raise awareness about the critical need for wildlife conservation and inspire action to protect these vulnerable creatures. You will find an explore section, a collection of captivating photographs, informative articles and FAQs highlighting the beauty and significance of our planet's wildlife.
 
 ## Features :
 
