@@ -25,6 +25,6 @@ Every species, no matter how small or seemingly insignificant, plays a vital rol
 
 Our Wildlife Conservation Website serves as a tribute to the beauty and diversity of the natural world and a call to action for everyone to join the fight against extinction. Together, we can make a difference and ensure a brighter future for our planet's wildlife.
 
-Thank you for visiting, and we hope you are inspired to take action and become a champion for wildlife conservation!
+Thank you for visiting, and we hope you are inspired to take action and become a champion for the wildlife conservation!
 
 
